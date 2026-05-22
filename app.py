@@ -15,6 +15,7 @@ import plotly.graph_objects as go
 # ============================================================================
 
 APP_NC_BLUE = "#003DA5"
+NC_BLUE = "#003DA5"
 NC_RED = "#CC0000"
 NC_DARK = "#002266"
 NC_GOLD = "#FFD700"
